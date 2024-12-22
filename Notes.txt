@@ -1,0 +1,5 @@
+Dans le cas de la reception de l'erreur "permission non accordee":
+    ne pas oublier d'autoriser la connexion sur le port voulu 
+        sudo ufw allow num_port/tcp ou udp zay ampiasainlah eo
+    BufferedReader mandray
+    PrintWriter mandefa

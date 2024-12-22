@@ -1,0 +1,9 @@
+Micorrige anle methode post wish[x]
+    soloina 3 arguments ilay compilePHP [x]
+        fichier,get,post[x]
+    ilay sendresponse mila asiana length pour permettre la lecture du post[x]
+Manamboatra anle fonctionnement par defaut mitady index[x]
+Manamboatra anle logs
+	Asiana information momba anle utilisateur nanao action[x](nataoko fotsiny hoe iza no connecte aloha fa aleo rehefa miditra thread vao mikitika anty)
+	
+<?php if (php_sapi_name() === 'cli' && getenv("QUERY_STRING")) {parse_str(getenv("QUERY_STRING"), $_GET);}if (php_sapi_name() === 'cli' && getenv("REQUEST_METHOD") === 'POST') {$postData = stream_get_contents(STDIN);if ($postData) {parse_str($postData, $_POST);}}?>
